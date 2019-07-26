@@ -1,0 +1,82 @@
+[
+  {
+    "partId": "7BAA24F0-DFDA-41F7-B6CF-000B0709C882",
+    "partNumber": "642W9813-505",
+    "partDescription": "Wire Harness, Engine Control Unit to T/R",
+    "basePartNumber": "642W9813",
+    "airCraftSeries": "A318 - A321",
+    "airCraftModel": "A318 - A321",
+    "engineType": "CFM56-5",
+    "ataNumber": "71"
+  },
+  {
+    "partId": "{86238D1D-D903-4000-BC87-000D56C8B7D4}",
+    "partNumber": "65B39200-53",
+    "partDescription": "Flap Assy-Krueger Leading Edge",
+    "basePartNumber": "65B39200",
+    "airCraftSeries": "B747",
+    "airCraftModel": "B747",
+    "engineType": "Multi",
+    "ataNumber": "57"
+  },
+  {
+    "partId": "{26F0F227-60C9-4D1E-A63A-000EA8EF800D}",
+    "partNumber": "314N3110-96",
+    "partDescription": "Fan Cowl Assy-R/H #1",
+    "basePartNumber": "314N3110",
+    "airCraftSeries": "B757",
+    "airCraftModel": "B757",
+    "engineType": "PW2000",
+    "ataNumber": "71"
+  },
+  {
+    "partId": "{C8C7718D-B419-4F81-AF56-0019486315EE}",
+    "partNumber": "ANB7107-404",
+    "partDescription": "Panel Assy",
+    "basePartNumber": "ANB7107",
+    "airCraftSeries": "DC10",
+    "airCraftModel": "DC10",
+    "engineType": "Multi",
+    "ataNumber": "54"
+  },
+  {
+    "partId": "{C8C7718D-B419-4F81-AF56-0019486315EE}",
+    "partNumber": "642W9813-505",
+    "partDescription": "Wire Harness, Engine Control Unit to T/R",
+    "basePartNumber": "642W9813",
+    "airCraftSeries": "A318 - A321",
+    "airCraftModel": "A318 - A321",
+    "engineType": "CFM56-5",
+    "ataNumber": "71"
+  },
+  {
+    "partId": "{113D2204-AE05-4847-9EED-001AE1E1D768}",
+    "partNumber": "221-5123-1011",
+    "partDescription": "Thrust Reverser Assy",
+    "basePartNumber": "221-5123",
+    "airCraftSeries": "MD11",
+    "airCraftModel": "MD11",
+    "engineType": "PW4000",
+    "ataNumber": "78"
+  },
+  {
+    "partId": "{2489EC9E-D0B4-4A45-B3F0-00290F7BD94B}",
+    "partNumber": "113N2002-19",
+    "partDescription": "Flap Assy-Inboard TE",
+    "basePartNumber": "113N2002",
+    "airCraftSeries": "B757",
+    "airCraftModel": "B757",
+    "engineType": "Multi",
+    "ataNumber": "57"
+  },
+  {
+    "partId": "{C60DA262-5394-46A8-BF85-002B057B1C12}",
+    "partNumber": "114T3100-14SP",
+    "partDescription": "Slat Assy-Inboard",
+    "basePartNumber": "114T3100",
+    "airCraftSeries": "B767",
+    "airCraftModel": "B767",
+    "engineType": "Multi",
+    "ataNumber": "57"
+  }
+]
