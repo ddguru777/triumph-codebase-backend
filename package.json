@@ -59,7 +59,7 @@
     "mongoose-keywords": "^0.4.0",
     "mongoose-url-slugs": "^1.0.2",
     "morgan": "^1.7.0",
-    "papaparse": "^4.6.3",
+    "papaparse": "^5.2.0",
     "passport": "^0.4.0",
     "passport-http": "^0.3.0",
     "passport-http-bearer": "^1.0.1",
